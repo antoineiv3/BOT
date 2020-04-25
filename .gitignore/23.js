@@ -48,7 +48,7 @@ const exampleEmbed = {
 		},
 	],
 	image: {
-		url: 'https://github.com/antoineiv3/BOT',
+		url: '',
 	},
 	timestamp: new Date(),
 	footer: {
