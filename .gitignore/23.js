@@ -11,7 +11,7 @@ client.on("message", (message) => {
         message.channel.send("Je suis 23. Que puis-je faire ?")
     }
     
-    if(message.content === prefix + "help") {
+    if(message.content === "help") {
         message.channel.send("Besoin d'aide ?")
     }
     
