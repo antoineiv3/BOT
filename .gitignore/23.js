@@ -52,7 +52,7 @@ const exampleEmbed = {
 	},
 	timestamp: new Date(),
 	footer: {
-		text: 'cordialement 23',
+		text: 'Merci de nous tenire au courant de se qui a été fait. Cordialement 23',
 		icon_url: '',
 	},
 };
