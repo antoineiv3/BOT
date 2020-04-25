@@ -33,17 +33,17 @@ const exampleEmbed = {
 		},
 		{
 			name: 'Creer facture template',
-			value: 'Aller chercher sur internet plusieurs idée pour crée un modèle de facture mettre tout vos rechercher dans : OneDrive\IV3\rechercher',
+			value: 'Aller chercher sur internet plusieurs idée pour crée un modèle de facture mettre tout vos rechercher dans : OneDrive IV3 rechercher',
 			inline: true,
 		},
 		{
-			name: 'actu 2',
-			value: 'test de la description 2',
+			name: 'Creer devis template',
+			value: 'Rechercher de idée de devis mettre vos rechercher dans : OneDrive IV3 rechercher',
 			inline: true,
 		},
 		{
-			name: 'actu 3',
-			value: 'test de la description 3',
+			name: 'Mettre à jour BDD',
+			value: 'Aller dans la BDD et regarder si quelque chose a bouger sur les prix ou réduction ',
 			inline: true,
 		},
 	],
