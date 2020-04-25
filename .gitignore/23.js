@@ -62,7 +62,7 @@ client.on("message", (message)=> {
         message.channel.send({ embed: exampleEmbed });
     }
 
-    if(message.content === "Bonjour") {
+    if(message.content === "bonjour") {
         message.channel.send("Je suis 23. Que puis-je faire ?")
     }
     if(message.content === "actu") {
