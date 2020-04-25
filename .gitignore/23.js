@@ -5,7 +5,7 @@ const client = new Discord.Client();
 client.login(process.env.TOKEN);
 
 /*version off ligne 
-client.login("NzAzMjY0MTkwMjczNTUyNDE0.XqQPbQ.leySf7APw1frQ4dbUEB4rxnEVyA");
+client.login("");
 */
 
 const exampleEmbed = {
