@@ -32,8 +32,8 @@ const exampleEmbed = {
 			inline: false,
 		},
 		{
-			name: 'Developpement d''un DISCORD pour migration',
-			value: 'BOT terminé en phase BETA relié au serveur Github à l''adresse Configuration de base faite ! ',
+			name: 'Developpement d un DISCORD pour migration',
+			value: 'test',
 			inline: true,
 		},
 		{
