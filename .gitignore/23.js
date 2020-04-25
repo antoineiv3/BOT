@@ -24,7 +24,7 @@ const exampleEmbed = {
 	fields: [
 		{
 			name: 'on a mis en place cette commande ',
-			value: 'Some value here',
+			value: 'on compte sur vous',
 		},
 		{
 			name: '\u200b',
@@ -48,7 +48,7 @@ const exampleEmbed = {
 		},
 	],
 	image: {
-		url: 'https://i.imgur.com/wSTFkRM.png',
+		url: '',
 	},
 	timestamp: new Date(),
 	footer: {
