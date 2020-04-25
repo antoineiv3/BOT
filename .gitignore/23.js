@@ -13,7 +13,7 @@ const exampleEmbed = {
 	title: 'IV3',
 	url: '',
 	author: {
-		name: 'chose récente ',
+		name: 'chose récente sur ',
 		icon_url: '',
 		url: '',
 	},
@@ -32,8 +32,8 @@ const exampleEmbed = {
 			inline: false,
 		},
 		{
-			name: 'actu 1',
-			value: 'test de la description 1',
+			name: 'Developpement d''un DISCORD pour migration',
+			value: 'BOT terminé en phase BETA relié au serveur Github à l''adresse Configuration de base faite ! ',
 			inline: true,
 		},
 		{
@@ -48,7 +48,7 @@ const exampleEmbed = {
 		},
 	],
 	image: {
-		url: '',
+		url: 'https://github.com/antoineiv3/BOT',
 	},
 	timestamp: new Date(),
 	footer: {
