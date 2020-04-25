@@ -17,13 +17,13 @@ const exampleEmbed = {
 		icon_url: '',
 		url: '',
 	},
-	description: 'Some description here',
+	description: 'se que vous voyez est nouveux',
 	thumbnail: {
 		url: '',
 	},
 	fields: [
 		{
-			name: 'Regular field title',
+			name: 'on a mis en place cette commande ',
 			value: 'Some value here',
 		},
 		{
@@ -58,7 +58,7 @@ const exampleEmbed = {
 };
 client.on("message", (message)=> {
     
-    if(message.content === "embed") {
+    if(message.content === "travail") {
         message.channel.send({ embed: exampleEmbed });
     }
 
