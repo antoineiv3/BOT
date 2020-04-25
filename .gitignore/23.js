@@ -32,8 +32,8 @@ const exampleEmbed = {
 			inline: false,
 		},
 		{
-			name: 'Developpement d un DISCORD pour migration',
-			value: 'test',
+			name: 'Creer facture template',
+			value: 'Aller chercher sur internet plusieurs idée pour crée un modèle de facture mettre tout vos rechercher dans : OneDrive\IV3\rechercher',
 			inline: true,
 		},
 		{
