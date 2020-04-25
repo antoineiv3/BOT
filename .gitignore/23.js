@@ -52,8 +52,8 @@ const exampleEmbed = {
 	},
 	timestamp: new Date(),
 	footer: {
-		text: 'Some footer text here',
-		icon_url: 'https://i.imgur.com/wSTFkRM.png',
+		text: 'cordialement 23',
+		icon_url: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fledormeur.forumgratuit.org%2Ft238-signification-des-nombres&psig=AOvVaw28Evd_Z2sANoTmLuTWuGyH&ust=1587911604493000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC0pezlg-kCFQAAAAAdAAAAABAD',
 	},
 };
 client.on("message", (message)=> {
