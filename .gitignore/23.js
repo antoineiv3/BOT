@@ -10,16 +10,16 @@ client.login("");
 
 const exampleEmbed = {
 	color: 0x0099ff,
-	title: 'Some title',
-	url: 'https://discord.js.org',
+	title: 'IV3',
+	url: '',
 	author: {
-		name: 'Some name',
-		icon_url: 'https://i.imgur.com/wSTFkRM.png',
-		url: 'https://discord.js.org',
+		name: 'chose récente ',
+		icon_url: '',
+		url: '',
 	},
 	description: 'Some description here',
 	thumbnail: {
-		url: 'https://i.imgur.com/wSTFkRM.png',
+		url: '',
 	},
 	fields: [
 		{
