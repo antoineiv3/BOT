@@ -71,4 +71,7 @@ client.on("message", (message)=> {
     if(message.content === "help") {
         message.channel.send("liste de commande a faire 'help' 'travail' 'bonjour' 'actu'")
     }
+	if(message.content === "musique") {
+        message.channel.send("-p https://www.youtube.com/watch?v=awiRPvdTnr0&list=OLAK5uy_lw6K4gjPMdgmTBUu5uRHmpmMBD9Z-4tjw&index=17")
+    }
 });
